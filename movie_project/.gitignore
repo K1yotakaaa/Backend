@@ -11,10 +11,6 @@ venv/
 env/
 myenv/
 
-# Django
-/staticfiles/
-media/
-
 # IDE
 .vscode/
 .idea/
