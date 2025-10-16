@@ -37,7 +37,7 @@ CSRF_TRUSTED_ORIGINS = [
     'https://angular-homework-backend.up.railway.app',
 ]
 
-# Application definition
+# Application definitionn
 
 INSTALLED_APPS = [
     'django.contrib.admin',
