@@ -33,6 +33,9 @@ ALLOWED_HOSTS = [
   'https://angular-homework-backend.up.railway.app'
 ]
 
+CSRF_TRUSTED_ORIGINS = [
+    'https://angular-homework-backend.up.railway.app',
+]
 
 # Application definition
 
